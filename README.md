@@ -1,5 +1,3 @@
-### Hi there 👋
-
 public second brain: www.fxnotes.xyz
 
 <!--
